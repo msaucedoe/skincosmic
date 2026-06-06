@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Emrys';
+    src: url('https://dl.dropbox.com/s/400jdd8eybz3u83/EmrysRegular.eot');
+    src: url('https://dl.dropbox.com/s/400jdd8eybz3u83/EmrysRegular.eot?#iefix') format('embedded-opentype'),
+        url('https://dl.dropbox.com/s/kxfqkdedmqqrmsh/EmrysRegular.woff2') format('woff2'),
+        url('https://dl.dropbox.com/s/vaq74e2drdv633w/EmrysRegular.woff') format('woff'),
+        url('https://dl.dropbox.com/s/ujdqlo45uffy9um/EmrysRegular.ttf') format('truetype'),
+        url('https://dl.dropbox.com/s/golzxhz62ly5qi8/EmrysRegular.svg#EmrysRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
